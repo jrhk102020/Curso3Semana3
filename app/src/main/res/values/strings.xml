@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="activity_name_segundaActividad">Mascotas favoritas</string>
+    <string name="tvnombrecv">tvNombreCV</string>
+    <string name="tvtotalcv">tvTotalCV</string>
+    <string name="Todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todos">TODO</string>
+</resources>
